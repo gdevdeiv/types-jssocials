@@ -1,0 +1,24 @@
+{
+  "name": "cb-dts-jssocials",
+  "version": "0.0.1",
+  "description": "TypeScripts declaration file wrapper for jsSocials",
+  "main": "index.d.ts",
+  "author": "ICodeMyOwnLife",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICodeMyOwnLife/typings.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "typings",
+    "jsSocials"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ICodeMyOwnLife/typings/issues"
+  },
+  "homepage": "https://github.com/ICodeMyOwnLife/typings#readme"
+}
