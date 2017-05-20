@@ -1,15 +1,24 @@
 {
-  "name": "cb-dts-jssocials",
+  "name": "@types/jssocials",
   "version": "0.0.1",
-  "description": "TypeScripts declaration file wrapper for jsSocials",
+  "description": "Typings package wrapper for @icodemyownlife.",
   "main": "index.d.ts",
-  "author": "ICodeMyOwnLife",
+  "authors": [
+    {
+      "name": "ICodeMyOwnLife"
+    },
+    {
+      "name": "David Juan Ahullana",
+      "email": "info@davidjotta.me",
+      "url": "https://davidjotta.me"
+    }
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICodeMyOwnLife/typings.git"
+    "url": "git+https://github.com/gdevdeiv/types-jssocials.git"
   },
   "keywords": [
     "TypeScript",
@@ -18,7 +27,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ICodeMyOwnLife/typings/issues"
+    "url": "https://github.com/gdevdeiv/types-jssocials/issues"
   },
-  "homepage": "https://github.com/ICodeMyOwnLife/typings#readme"
+  "homepage": "https://github.com/gdevdeiv/types-jssocials#readme"
 }
